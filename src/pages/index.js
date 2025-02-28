@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-
+import Translate from '@docusaurus/Translate';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
@@ -12,13 +12,13 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          主页
+            <Translate>主页</Translate>
         </Heading>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            CG文档
+            <Translate>CG文档</Translate>
           </Link>
         </div>
       </div>

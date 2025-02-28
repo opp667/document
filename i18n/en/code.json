@@ -309,5 +309,13 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "主页": {
+    "message": "Home",
+    "description": "Homepage title"
+  },
+  "CG文档": {
+    "message": "CG Docs",
+    "description": "Homepage button text"
   }
 }
