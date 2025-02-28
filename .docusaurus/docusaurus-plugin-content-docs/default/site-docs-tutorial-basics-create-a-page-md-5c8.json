@@ -1,6 +1,6 @@
 {
   "id": "tutorial-basics/create-a-page",
-  "title": "Create a Page",
+  "title": "登录相关",
   "description": "Add Markdown or React files to src/pages to create a standalone page:",
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
@@ -13,12 +13,13 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "登录相关"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial - Basics",
-    "permalink": "/cg_document/docs/category/tutorial---basics"
+    "title": "文档1",
+    "permalink": "/cg_document/docs/category/文档1"
   },
   "next": {
     "title": "Create a Document",

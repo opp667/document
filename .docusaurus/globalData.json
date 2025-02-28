@@ -56,13 +56,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/cg_document/docs/category/tutorial---basics",
+              "id": "/category/文档1",
+              "path": "/cg_document/docs/category/文档1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/cg_document/docs/category/tutorial---extras",
+              "id": "/category/文档2",
+              "path": "/cg_document/docs/category/文档2",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/cg_document/__docusaurus/debug',
-    component: ComponentCreator('/cg_document/__docusaurus/debug', 'cf5'),
-    exact: true
-  },
-  {
-    path: '/cg_document/__docusaurus/debug/config',
-    component: ComponentCreator('/cg_document/__docusaurus/debug/config', 'fa9'),
-    exact: true
-  },
-  {
-    path: '/cg_document/__docusaurus/debug/content',
-    component: ComponentCreator('/cg_document/__docusaurus/debug/content', '0e0'),
-    exact: true
-  },
-  {
-    path: '/cg_document/__docusaurus/debug/globalData',
-    component: ComponentCreator('/cg_document/__docusaurus/debug/globalData', 'fdf'),
-    exact: true
-  },
-  {
-    path: '/cg_document/__docusaurus/debug/metadata',
-    component: ComponentCreator('/cg_document/__docusaurus/debug/metadata', '98d'),
-    exact: true
-  },
-  {
-    path: '/cg_document/__docusaurus/debug/registry',
-    component: ComponentCreator('/cg_document/__docusaurus/debug/registry', 'f5c'),
-    exact: true
-  },
-  {
-    path: '/cg_document/__docusaurus/debug/routes',
-    component: ComponentCreator('/cg_document/__docusaurus/debug/routes', '841'),
-    exact: true
-  },
-  {
     path: '/cg_document/blog',
     component: ComponentCreator('/cg_document/blog', '2c9'),
     exact: true
@@ -119,25 +84,25 @@ export default [
   },
   {
     path: '/cg_document/docs',
-    component: ComponentCreator('/cg_document/docs', '0f8'),
+    component: ComponentCreator('/cg_document/docs', '289'),
     routes: [
       {
         path: '/cg_document/docs',
-        component: ComponentCreator('/cg_document/docs', 'e52'),
+        component: ComponentCreator('/cg_document/docs', '305'),
         routes: [
           {
             path: '/cg_document/docs',
-            component: ComponentCreator('/cg_document/docs', 'c05'),
+            component: ComponentCreator('/cg_document/docs', 'a63'),
             routes: [
               {
-                path: '/cg_document/docs/category/tutorial---basics',
-                component: ComponentCreator('/cg_document/docs/category/tutorial---basics', '656'),
+                path: '/cg_document/docs/category/文档1',
+                component: ComponentCreator('/cg_document/docs/category/文档1', '7f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/cg_document/docs/category/tutorial---extras',
-                component: ComponentCreator('/cg_document/docs/category/tutorial---extras', '1d2'),
+                path: '/cg_document/docs/category/文档2',
+                component: ComponentCreator('/cg_document/docs/category/文档2', '8ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

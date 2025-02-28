@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.文档1": {
+    "message": "文档1",
+    "description": "The label for category 文档1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.文档1.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category 文档1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.文档2": {
+    "message": "文档2",
+    "description": "The label for category 文档2 in sidebar tutorialSidebar"
+  }
+}

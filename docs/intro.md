@@ -1,10 +1,11 @@
 ---
 sidebar_position: 1
+title: 简介
 ---
 
-# Tutorial Intro
+# CG文档
 
-Let's discover **Docusaurus in less than 5 minutes**.
+让我们在五分钟内快速了解CG文档
 
 ## Getting Started
 
