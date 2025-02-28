@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "My Site",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.CG文档": {
+    "message": "CG Docs",
+    "description": "Navbar item with label CG文档"
+  },
+  "item.label.博客": {
+    "message": "博客",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.Hello World": {
+    "message": "Hello World",
+    "description": "Navbar item with label Hello World"
+  }
+}

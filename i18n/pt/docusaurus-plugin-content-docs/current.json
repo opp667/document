@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.文档1": {
+    "message": "document1",
+    "description": "The label for category 文档1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.文档2": {
+    "message": "document2",
+    "description": "The label for category 文档2 in sidebar tutorialSidebar"
+  }
+}
