@@ -88,8 +88,8 @@ const config = {
             position: 'left',
             label: 'CG文档',
           },
-          {to: '/blog', label: '博客', position: 'left'},
-          {to: '/helloWorld', label: 'Hello World', position: 'left'},
+          // {to: '/blog', label: '博客', position: 'left'},
+          // {to: '/helloWorld', label: 'Hello World', position: 'left'},
           // 添加语言切换按钮
           {
             type: 'localeDropdown',
@@ -104,7 +104,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'CG文档',
                 to: '/docs/intro',
               },
             ],
