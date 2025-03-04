@@ -1,1 +1,1 @@
-# cg_document
+# document
